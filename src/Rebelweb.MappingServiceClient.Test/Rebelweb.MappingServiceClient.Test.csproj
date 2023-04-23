@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Rebelweb.MappingServiceClient\Rebelweb.MappingServiceClient.csproj" />
+  </ItemGroup>
+
 </Project>
